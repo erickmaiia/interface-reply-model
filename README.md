@@ -17,29 +17,6 @@ This is a web application for financial sentiment analysis, developed using Reac
 - **Axios**: Promise-based HTTP client for making HTTP requests.
 - **Vercel**: Hosting platform for front-end and back-end applications.
 
-## How to Use
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/erickmaiia/interface-reply-model
-cd interface-reply-model
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Start the application:
-
-```bash
-npm run dev
-```
-
-This will start the application locally. You can access it at http://localhost:5173.
-
 ## Used API
 
 The requests in this application are made to an API specifically created to provide financial sentiment data. For more information about this API, visit the [link](https://github.com/erickmaiia/rest-api-reply-model-v1) to the API repository.
