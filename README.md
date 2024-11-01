@@ -26,6 +26,6 @@ The requests in this application are made to an API specifically created to prov
 
 You can visually access [here](https://interface-reply-model.vercel.app/) or click in the image.
 
-[<img src="./interface-reply-model.vercel.app.png" alt="img">](https://interface-reply-model.vercel.app/)
+[<img src="./image/interface-reply-model.vercel.app.png" alt="img">](https://interface-reply-model.vercel.app/)
 
 

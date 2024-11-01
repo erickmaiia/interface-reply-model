@@ -59,8 +59,8 @@ export default function App() {
   );
 
   return (
-    <div>
-      <Container maxW={"7xl"} overflow={"hidden"}>
+    <Flex direction="column" minH="100vh">
+      <Container maxW={"7xl"} overflow={"hidden"} flex="1">
         <Stack spacing={5} py={10}>
           <Heading
             lineHeight={1.1}
@@ -138,6 +138,6 @@ export default function App() {
         </Stack>
       </Container>
       <Footer />
-    </div>
+    </Flex>
   );
 }
